@@ -1,0 +1,1 @@
+int sum = accumulate(v.begin(), v.end(), 0);

@@ -1,0 +1,1 @@
+v.erase(remove(v.begin(), v.end(), x), v.end());

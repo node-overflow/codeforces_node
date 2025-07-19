@@ -1,0 +1,1 @@
+bool found = binary_search(v.begin(), v.end(), x);

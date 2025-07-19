@@ -1,0 +1,1 @@
+bool sorted = is_sorted(v.begin(), v.end());

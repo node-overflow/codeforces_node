@@ -1,0 +1,1 @@
+int cnt = count(v.begin(), v.end(), x);
