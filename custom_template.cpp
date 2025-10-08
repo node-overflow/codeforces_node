@@ -1,18 +1,19 @@
+// code written by PIYUSH JHA - @node_overflow
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
 #define fio ios::sync_with_stdio(false); cin.tie(nullptr);
-#define ret(x) {cout << x << "\n"; return 0;}
+#define endl "\n"
 #define cont(x) {cout << x << "\n"; continue;}
 #define pb push_back
+#define all(x) x.begin(), x.end()
  
 int main() {
-   ios::sync_with_stdio(false);
-   cin.tie(nullptr);
-   
-   ll t;
-   cin >> t;
-   while (t--) {
+    fio;
+    
+    int tt = 1;
+    cin >> tt;
+    while (tt--) {
         
-   }
+    }
 }
