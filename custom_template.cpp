@@ -13,9 +13,9 @@ using ld = long double;
 #define cont(x) {cout << x << "\n"; continue;}
 #define cont2(x, y) {cout << x << " " << y << "\n"; continue;}
 #define printv(v) for (const auto &it : v) cout << it << " "; cout << "\n"
-#define print(x) cout << x << endl;
-#define print2(x, y) cout << x << " " << y << endl;
-#define print3(x, y, z) cout << x << " " << y << " " << z << endl;
+#define print(x) cout << x << "\n";
+#define print2(x, y) cout << x << " " << y << "\n";
+#define print3(x, y, z) cout << x << " " << y << " " << z << "\n";
  
 int main() {
     fio;
