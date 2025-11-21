@@ -9,6 +9,8 @@ using namespace std;
 #define pb push_back
 #define ff first
 #define ss second
+#define YES cout << "YES\n";
+#define NO cout << "NO\n";
 #define all(x) x.begin(), x.end()
 #define sz(x) (int)(x).size()
 /* For printing output */
