@@ -1,11 +1,11 @@
 // code written by PIYUSH JHA - @node_overflow
 #include <bits/stdc++.h>
 using namespace std;
-#define ll long long
-#define lld long double
-#define ull unsigned long long
+using ll = long long;
+using ld = long double;
+using ull = unsigned long long;
 #define fio ios::sync_with_stdio(false); cin.tie(nullptr);
-#define endl "\n"
+const char nl = '\n';
 #define pb push_back
 #define ff first
 #define ss second
@@ -23,12 +23,17 @@ using namespace std;
 #define print2(x, y) cout << x << " " << y << "\n";
 #define print3(x, y, z) cout << x << " " << y << " " << z << "\n";
 
+void solve() {
+    
+}
+
 int main() {
     fio;
     
     int tt = 1;
     cin >> tt;
     while (tt--) {
-       
+        solve();
     }
+    return 0;
 }
